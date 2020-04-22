@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b403e5485b97142706304f9a5abe3fa",
+    "revision": "6d5b968886a3d2ec9a3f6f0a3cc5182b",
     "url": "/paper-dashboard-react/index.html"
   },
   {
-    "revision": "19f244550335bfd8e7ca",
-    "url": "/paper-dashboard-react/static/css/2.151d002d.chunk.css"
+    "revision": "524d7aa1651fdc762ee8",
+    "url": "/paper-dashboard-react/static/css/2.08c0db48.chunk.css"
   },
   {
-    "revision": "085b682336292439058c",
-    "url": "/paper-dashboard-react/static/css/main.57c121bb.chunk.css"
+    "revision": "c44a4eb8926ca9656202",
+    "url": "/paper-dashboard-react/static/css/main.3a2e459e.chunk.css"
   },
   {
-    "revision": "19f244550335bfd8e7ca",
-    "url": "/paper-dashboard-react/static/js/2.c571ed76.chunk.js"
+    "revision": "524d7aa1651fdc762ee8",
+    "url": "/paper-dashboard-react/static/js/2.cd8f91aa.chunk.js"
   },
   {
-    "revision": "085b682336292439058c",
-    "url": "/paper-dashboard-react/static/js/main.92571381.chunk.js"
+    "revision": "c44a4eb8926ca9656202",
+    "url": "/paper-dashboard-react/static/js/main.88ab0107.chunk.js"
   },
   {
     "revision": "b3fe53a14804cfc5877b",
